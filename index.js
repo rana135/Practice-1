@@ -16,7 +16,7 @@ app.use(express.json())
 // app.use(viewCount)
 // app.use(limiter)
 
-app.use('https://assingment-1-server.herokuapp.com/user/all', userRoutes)
+app.use('user/all', userRoutes)
 
 
 dbConncet()
