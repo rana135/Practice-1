@@ -16,7 +16,7 @@ app.use(express.json())
 // app.use(viewCount)
 // app.use(limiter)
 
-app.use('user/all', userRoutes)
+app.use('/user/all', userRoutes)
 
 
 dbConncet()
