@@ -1,0 +1,50 @@
+[
+    {
+        "Id": 1,
+        "gender": "male",
+        "name": "Riyad",
+        "contact": 1703790978,
+        "address": "Lohagara, Narail",
+        "photoUrl": "https://www.myphoto.com/riyad"
+    },
+    {
+        "Id": 2,
+        "gender": "male",
+        "name": "Shuvo",
+        "contact": 1360394078,
+        "address": "Gulsha, Dhaka",
+        "photoUrl": "https://www.myphoto.com/shuvo"
+    },
+    {
+        "Id": 3,
+        "gender": "male",
+        "name": "Sangram",
+        "contact": 3465276345,
+        "address": "Kundoshi, USK",
+        "photoUrl": "https://www.myphoto.com/sangram"
+    },
+    {
+        "Id": 4,
+        "gender": "male",
+        "name": "Josh",
+        "contact": 3456456345,
+        "address": "NewYork",
+        "photoUrl": "https://www.myphoto.com/sangram"
+    },
+    {
+        "Id": 5,
+        "gender": "male",
+        "name": "Abdur Rahman",
+        "contact": "097970979",
+        "address": "Rajshahi",
+        "photoUrl": "https://www.myphoto.com/sangram"
+    },
+    {
+        "Id": "6",
+        "gender": "male",
+        "name": "Abdullah",
+        "contact": "071037932",
+        "address": "Kumilla",
+        "photoUrl": "https://www.myphoto.com/sangram"
+    }
+]
